@@ -1,11 +1,11 @@
 cask "nyx-vox" do
-  version "1.5.1"
-  sha256 "65a2fe28d567f2836812f1ac487f3d60a479e7d52166542692800b6fd8d1bb32"
+  version "1.6.0"
+  sha256 "c474277d66ba9e3e0fa7c5cf69a411f6e74c3f6a515297561caee98fb952fa28"
 
   url "https://github.com/AVP-Dev/nyx-vox/releases/download/v#{version}/NYX.Vox_#{version}_aarch64.dmg"
   name "NYX Vox"
   desc "AI-assisted voice dictation"
-  homepage "https://github.com/AVP-Dev/nyx-vox"
+  homepage "https://nyx-vox.avpdev.com"
 
   depends_on arch: :arm64
 
