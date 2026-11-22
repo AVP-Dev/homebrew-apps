@@ -22,6 +22,12 @@ brew tap AVP-Dev/apps
 | :--- | :--- | :--- |
 | **[talos](Formula/talos.rb)** | Local CLI-first orchestrator for AI coding agents with Team and Pair modes | `brew install AVP-Dev/apps/talos` |
 
+## macOS Apps
+
+| App | Installation |
+| :--- | :--- |
+| **[NYX Vox](https://nyx-vox.avpdev.com/)** (Apple Silicon) | `brew install --cask AVP-Dev/apps/nyx-vox` |
+
 ## Documentation & Issues
 
 - TALOS Repository: [github.com/AVP-Dev/talos](https://github.com/AVP-Dev/talos)
