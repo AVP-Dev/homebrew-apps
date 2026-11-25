@@ -32,3 +32,9 @@ brew tap AVP-Dev/apps
 
 - TALOS Repository: [github.com/AVP-Dev/talos](https://github.com/AVP-Dev/talos)
 - Issues & Bug Reports: [Report an issue](https://github.com/AVP-Dev/homebrew-apps/issues)
+
+---
+
+<div align="center">
+<sub>AVPdev · Software Development &amp; Automation · <a href="https://avpdev.com/">avpdev.com</a></sub>
+</div>
