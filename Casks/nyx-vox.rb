@@ -1,6 +1,6 @@
 cask "nyx-vox" do
-  version "1.6.0"
-  sha256 "457ccdf9c7e1d4b695a6f292c8bc49fa56d00ca0b08e821b84d754e7855e2784"
+  version "1.6.1"
+  sha256 "fbfa0bb9ae2968af02abea3e56241880c3e1637d907461b4e977db7659ec8770"
 
   url "https://github.com/AVP-Dev/nyx-vox/releases/download/v#{version}/NYX.Vox_#{version}_aarch64.dmg"
   name "NYX Vox"
